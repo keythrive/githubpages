@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# 堀川研究室　（米山Y417）
 
-You can use the [editor on GitHub](https://github.com/keythrive/githubpages/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+- 所属 -- 情報学部　
+- 場所 -- 開志専門職大学　米山キャンパス　居室　Y417
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 研究テーマ
 
-### Markdown
+- 人工知能
+- マシンラーニング
+- エッジAI, 自動運転
+- データ構造アルゴリズム
+- 並列分散コンピューティング
+- プログラミング
+- 組合せ最適化問題への量子アニーリング応用
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## コンピューティング環境、プログラミング言語
 
-```markdown
-Syntax highlighted code block
+- UNIX,Linux
+- MacOS
+- Windows
+- Jetson nano
+- LISP, Python3, Javascript, C/C++, Java, Prolog, Scheme, Modula-2, Pascal, Fortran ...
 
-# Header 1
-## Header 2
-### Header 3
+## 技術経営テーマ
 
-- Bulleted
-- List
+- ビジネス・ケース（数百種類のマシンラーニングによる分類体系化）
+- 類似ケース探索、ナレッジリコメンデーション
 
-1. Numbered
-2. List
+## オープンキャンパス、模擬講義
 
-**Bold** and _Italic_ and `Code` text
+- AI体験、Jetracer 強化学習実験
+- 臨地実務実習への取り組み姿勢
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/keythrive/githubpages/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+全力本気で挑戦せよ
+アウトプット(実績)による自己成長
+持たざるものの戦略実行（若さと失敗と苦手克服と）
